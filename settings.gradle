@@ -1,0 +1,2 @@
+include ':viewbindingutility'
+rootProject.name = "ViewBindingUtility"
